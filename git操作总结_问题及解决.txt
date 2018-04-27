@@ -1,0 +1,3 @@
+2018.04.28
+1、git初始远程创建仓库时，如果带有文件，本地仓库第一次进行关联git remote add origin
+和push的操作是不被允许的，要先进行pull的取（fetch）操作
